@@ -29,7 +29,7 @@ int main() {
     int pontos2;
 
     // ----- Entrada da Carta 1 -----
-    printf("=== Cadastro da Carta 1 ===\n");
+    printf("---- Cadastro da Carta 1 ----\n");
 
     printf("Estado (A-H): ");
     scanf(" %c", &estado1);
@@ -53,7 +53,7 @@ int main() {
     scanf("%d", &pontos1);
 
     // ----- Entrada da Carta 2 -----
-    printf("\n=== Cadastro da Carta 2 ===\n");
+    printf("\n---- Cadastro da Carta 2 ----\n");
 
     printf("Estado (A-H): ");
     scanf(" %c", &estado2);
